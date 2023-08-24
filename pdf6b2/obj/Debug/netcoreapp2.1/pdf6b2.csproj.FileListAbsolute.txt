@@ -1,0 +1,14 @@
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\bin\Debug\netcoreapp2.1\pdf6b2.deps.json
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\bin\Debug\netcoreapp2.1\pdf6b2.runtimeconfig.json
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\bin\Debug\netcoreapp2.1\pdf6b2.runtimeconfig.dev.json
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\bin\Debug\netcoreapp2.1\pdf6b2.dll
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\bin\Debug\netcoreapp2.1\pdf6b2.pdb
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.csproj.CoreCompileInputs.cache
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.RazorAssemblyInfo.cache
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.RazorAssemblyInfo.cs
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.AssemblyInfo.cs
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.RazorTargetAssemblyInfo.cache
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.dll
+C:\Users\vanda\source\repos\pdf6b2\pdf6b2\obj\Debug\netcoreapp2.1\pdf6b2.pdb
